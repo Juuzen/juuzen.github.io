@@ -28,7 +28,7 @@ twitter_username: juu2en
 github_username: Juuzen
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-feed
 # Exclude from processing.
